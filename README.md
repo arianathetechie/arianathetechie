@@ -1,9 +1,6 @@
 # Hi Everyone! I'm _Ariana The Techie_ 👋🏾
 
-![Alt text describing the image](16-Ariana-Portraits-16.jpg)
-
 <img src="16-Ariana-Portraits-16.jpg" width="400">
-
 
 * Tech for 16 years
 * Engineer and PM
