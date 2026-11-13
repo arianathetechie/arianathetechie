@@ -2,7 +2,7 @@
 
 ![Uploading 16-Ariana - Portraits-16.jpg…]
 
-/Desktop/0/ProfessionalPhotos/16-Ariana - Portraits-16.jpg
+../Desktop/0/ProfessionalPhotos/16-Ariana - Portraits-16.jpg
 
 
 * Tech for 16 years
