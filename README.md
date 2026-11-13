@@ -1,7 +1,7 @@
 # Hi Everyone! I'm _Ariana The Techie_ 👋🏾
 ##### Last Updated: Friday November 13th 2026
 
-[!WARNING]
+> [!WARNING]
 > Only really cool devs follow this Github account. if you're not cool then just skip this page :)
 
 <img src="16-Ariana-Portraits-16.jpg" width="200">
