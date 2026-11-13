@@ -1,7 +1,7 @@
 # Hi Everyone! I'm _Ariana The Techie_ 👋🏾
 ##### Last Updated: Friday November 13th 2026
 
-<img src="16-Ariana-Portraits-16.jpg" width="400">
+<img src="16-Ariana-Portraits-16.jpg" width="200">
 
 * Tech for 16 years
 * Engineer and PM
