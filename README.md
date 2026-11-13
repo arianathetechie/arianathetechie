@@ -1,6 +1,7 @@
 # Hi Everyone! I'm _Ariana The Techie_ 👋🏾
 
-* Been in tech for 16 years as an engineer and PM
+* Tech for 16 years
+* Engineer and PM
 * Built 3 tech startups
 * Raised $3M+ in Venture Capital
 
