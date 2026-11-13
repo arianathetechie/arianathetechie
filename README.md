@@ -1,8 +1,6 @@
 # Hi Everyone! I'm _Ariana The Techie_ 👋🏾
 
-![Uploading 16-Ariana - Portraits-16.jpg…]
-
-../Desktop/0/ProfessionalPhotos/16-Ariana - Portraits-16.jpg
+![Alt text describing the image](image-name.png)
 
 
 * Tech for 16 years
