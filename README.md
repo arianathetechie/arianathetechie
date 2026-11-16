@@ -8,8 +8,6 @@
 > [!WARNING]
 > Only really cool devs follow this Github account. if you're not cool then just skip this page :)
 
-<img src="16-Ariana-Portraits-16.jpg" width="200">
-
 * Tech for 16 years
 * Engineer and PM
 * HF0 Alumni Cohort 3
