@@ -6,7 +6,7 @@
 ##### Last Updated: Monday November 16th 2026
 
 > [!WARNING]
-> Only really cool devs follow this Github account. if you're not cool then just skip this page :)
+> Only really cool devs follow this Github account. If you aren't cool then don't follow :)
 > 
 ### <ins> My Tech Career </ins>
 * Tech for 16 years
