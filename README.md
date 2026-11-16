@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pinksvg.svg" alt="Banner Alt Text" width="100%" />
+  <img src="pink.svg" alt="Banner Alt Text" width="100%" />
 </p>
 
 # Hi Everyone! I'm _Ariana The Techie_ 👋🏾
