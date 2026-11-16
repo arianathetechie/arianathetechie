@@ -24,5 +24,5 @@ Youtube [@ArianaTheTechie](https://www.youtube.com/@arianathetechie)
 
 
 <p align="center">
-  <img src="footer.svg" alt="Banner Alt Text" width="100%" />
+  <img src="Footer.svg" alt="Banner Alt Text" width="100%" />
 </p>
