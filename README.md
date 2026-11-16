@@ -9,7 +9,6 @@
 > Only really cool devs follow this Github account. if you're not cool then just skip this page :)
 > 
 ### <ins> My Tech Career </ins>
-
 * Tech for 16 years
 * Engineer and PM
 * HF0 Alumni Cohort 3
