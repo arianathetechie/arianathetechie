@@ -10,7 +10,7 @@
 > 
 ### <ins> My Tech Career </ins>
 * Tech for 16 years
-* Engineer and PM
+* Software Engineer and PM
 * HF0 Alumni Cohort 3
 * Built 3 tech startups
 * Raised $3M+ in Venture Capital
