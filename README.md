@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="pink.svg" alt="Banner Alt Text" width="100%" />
-</p>
+
 
 # Hi Everyone! I'm _Ariana The Techie_ 👋🏾
 ##### Last Updated: Monday November 16th 2026
